@@ -1,9 +1,0 @@
-G:\mygit\Hangfire.Extension\Hangfire.Extension\bin\Debug\netcoreapp2.2\Hangfire.Extension.deps.json
-G:\mygit\Hangfire.Extension\Hangfire.Extension\bin\Debug\netcoreapp2.2\Hangfire.Extension.dll
-G:\mygit\Hangfire.Extension\Hangfire.Extension\obj\Debug\netcoreapp2.2\Hangfire.Extension.csproj.CoreCompileInputs.cache
-G:\mygit\Hangfire.Extension\Hangfire.Extension\obj\Debug\netcoreapp2.2\Hangfire.Extension.AssemblyInfoInputs.cache
-G:\mygit\Hangfire.Extension\Hangfire.Extension\obj\Debug\netcoreapp2.2\Hangfire.Extension.AssemblyInfo.cs
-G:\mygit\Hangfire.Extension\Hangfire.Extension\bin\Debug\netcoreapp2.2\Hangfire.Extension.pdb
-G:\mygit\Hangfire.Extension\Hangfire.Extension\obj\Debug\netcoreapp2.2\Hangfire.Extension.csprojAssemblyReference.cache
-G:\mygit\Hangfire.Extension\Hangfire.Extension\obj\Debug\netcoreapp2.2\Hangfire.Extension.dll
-G:\mygit\Hangfire.Extension\Hangfire.Extension\obj\Debug\netcoreapp2.2\Hangfire.Extension.pdb
