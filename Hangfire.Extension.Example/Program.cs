@@ -29,7 +29,7 @@ namespace Hangfire.Extension.Example
             {
                 Console.WriteLine(ex.ToString());
             }
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
 
         static IConfiguration Configuration;
