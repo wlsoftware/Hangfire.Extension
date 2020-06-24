@@ -13,3 +13,4 @@ G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\obj\Debug\netcoreapp2.2\H
 G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\bin\Debug\netcoreapp2.2\Hangfire.Extension.Example.pdb
 G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\obj\Debug\netcoreapp2.2\Hangfire.Extension.Example.dll
 G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\obj\Debug\netcoreapp2.2\Hangfire.Extension.Example.pdb
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\bin\Debug\netcoreapp2.2\jobs.json
