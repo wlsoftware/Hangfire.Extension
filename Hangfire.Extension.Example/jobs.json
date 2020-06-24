@@ -1,0 +1,17 @@
+{
+  "jobs": [
+    {
+      "name": "MyRecurringJob",
+      "description": "循环执行任务描述",
+      "cron": "0/5 * * * * ?",
+      "queue": "default",
+      "enabled": true,
+      "datas": [
+        {
+          "key": "参数1",
+          "value": "123"
+        }
+      ]
+    }
+  ]
+}

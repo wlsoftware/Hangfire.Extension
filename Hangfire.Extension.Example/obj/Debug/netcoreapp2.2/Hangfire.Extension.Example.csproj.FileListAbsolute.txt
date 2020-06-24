@@ -1,0 +1,15 @@
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\bin\Debug\netcoreapp2.2\appsettings.json
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\bin\Debug\netcoreapp2.2\Hangfire.Extension.Example.deps.json
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\bin\Debug\netcoreapp2.2\Hangfire.Extension.Example.runtimeconfig.json
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\bin\Debug\netcoreapp2.2\Hangfire.Extension.Example.runtimeconfig.dev.json
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\bin\Debug\netcoreapp2.2\Hangfire.Extension.Example.dll
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\bin\Debug\netcoreapp2.2\Hangfire.Extension.dll
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\bin\Debug\netcoreapp2.2\Hangfire.Extension.pdb
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\obj\Debug\netcoreapp2.2\Hangfire.Extension.Example.csprojAssemblyReference.cache
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\obj\Debug\netcoreapp2.2\Hangfire.Extension.Example.csproj.CoreCompileInputs.cache
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\obj\Debug\netcoreapp2.2\Hangfire.Extension.Example.AssemblyInfoInputs.cache
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\obj\Debug\netcoreapp2.2\Hangfire.Extension.Example.AssemblyInfo.cs
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\obj\Debug\netcoreapp2.2\Hangfire.Extension.Example.csproj.CopyComplete
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\bin\Debug\netcoreapp2.2\Hangfire.Extension.Example.pdb
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\obj\Debug\netcoreapp2.2\Hangfire.Extension.Example.dll
+G:\mygit\Hangfire.Extension\Hangfire.Extension.Example\obj\Debug\netcoreapp2.2\Hangfire.Extension.Example.pdb
